@@ -1,0 +1,52 @@
+*********************************************
+reynaldo static portfolio website
+*********************************************
+*********************************************
+version : 1.0
+Document created : Dec. 12, 2023
+Project Started : Dec. 12, 2023
+Project  TargetGoal..
+Phase One : Layout things , Involves flexbox, grid. 
+Phase Two : Fonts
+Phase Three : Images
+Phase Four : Adjustment
+*********************************************
+
+Setting container 3 major container
+1.Header
+2.Main
+3.Footer
+
+Setting under 'Main Container' 5 minor containers
+1.Introduction-animation
+2.Introduction-text
+3.Showcase Skill 1
+4.Showcase Skill 2
+5.Show case Skill 3
+
+**********************************************
+
+
+Rule for this Mobile-portfolio
+1. All contents(Box) must be centered.
+2.
+
+
+
+
+
+
+
+
+animation
+layout
+fonts
+box
+design
+funny
+laugh
+colors
+sky
+
+
+
